@@ -1,3 +1,3 @@
 fun main(){
-    System.out.println("Tell Your Word")
+    System.out.println("Tell Your Word YES!!!")
 }
